@@ -1,8 +1,8 @@
 # IBook
 
-A site written as part of a technological practice. The site offers the opportunity to see a bookstore in front of you. Here you can see the main screen, the "About us" section and a significant catalog that separates the books offered by genre. The user can select any books, add them to the cart and make a conditional order.
+Сайт, написанный в рамках технологической практики. Сайт предлагает возможность увидеть перед собой книжный магазин. Здесь вы можете увидеть главный экран, раздел «О нас» и значительный каталог, который разделяет предлагаемые книги по жанрам. Пользователь может выбрать любые книги, добавить их в корзину и сделать условный заказ.
 
-In addition, it offers a database (MySQL) for the site, which stores data about books, users and orders. There are 8 entities here that prevent storing data about all the attributes that are on the site. In addition, the database uses triggers: to check the phone and mail that the user entered when placing an order. Also, a function is implemented here that counts the number of registered users, the number of orders created and the number of cities to use the order. This statistic is displayed in the "About us" section and is updated every time you place an order.
+Кроме того, он предлагает базу данных (MySQL) для сайта, в которой хранятся данные о книгах, пользователях и заказах. Здесь есть 8 сущностей, которые не позволяют хранить данные обо всех атрибутах, которые есть на сайте. Кроме того, в базе данных используются триггеры: для проверки телефона и почты, которые пользователь ввел при оформлении заказа. Также здесь реализована функция, которая подсчитывает количество зарегистрированных пользователей, количество созданных заказов и количество городов для использования заказа. Эта статистика отображается в разделе «О нас» и обновляется каждый раз, когда вы оформляете заказ.
 
 ![image](https://github.com/Glevelll/IBook/assets/113721736/e92bd063-2d5d-4e3f-99ec-6c0ec46fe472)
 main page
